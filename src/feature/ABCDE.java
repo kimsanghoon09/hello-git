@@ -2,7 +2,7 @@ package feature;
 
 public class ABCDE {
 	private void abc() {
-		// TODO Auto-generated method stub
+		System.out.println("#feature가 최고야!");
 	}
 
 }
