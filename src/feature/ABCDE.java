@@ -8,8 +8,8 @@ public class ABCDE {
 	private void abc() {
 		System.out.println("#feature가 최고야!");
 	}
-	public static void main(String[] args) {
+	
+	private void def() {
 		
 	}
-
 }
